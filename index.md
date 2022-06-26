@@ -25,9 +25,9 @@ capstone project, I added a [numerical programming
 library](https://factor.netlify.app/book/about/tensors/README.md) to the
 programming language [Factor](https://factorcode.org/).
 
-Outside of school and work, I enjoy cooking, social dancing, learning Korean, and doing the New York Times crossword.
-
-Please feel free to reach out to me at ndnayak2 [at] illinois [dot] edu!
+Please feel free to reach out to me by email at ndnayak2 [at] illinois [dot]
+edu, on [GitHub](https://github.com/nandeeka) or on
+[LinkedIn](https://www.linkedin.com/in/nandeeka-nayak/).
 
 ## Recent Publications
 
