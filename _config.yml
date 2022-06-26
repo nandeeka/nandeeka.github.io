@@ -21,7 +21,7 @@
 title: Nandeeka Nayak
 email: ndnayak2 [at] illinois [dot] edu
 description: >- # this means to ignore newlines until "baseurl:"
-    PhD Candidate at University of Illinois at Urbana-Champaign
+    PhD Student at University of Illinois at Urbana-Champaign
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nandeeka
