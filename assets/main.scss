@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-nav {
+
+  /* Page navigation button style */
+  .page-link {
+    margin-left: 0px;
+  }
+
+  a.page-link:link, a.page-link:visited {
+    background-color: $background-color;
+    color: $text-color;
+    border: 2px solid $text-color;
+    padding: $spacing-unit / 3 $spacing-unit * 2 / 3;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  a.page-link:hover, a.page-link:active {
+    background-color: $text-color;
+    color: $background-color;
+  }
+}
