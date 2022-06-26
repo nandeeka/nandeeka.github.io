@@ -4,26 +4,6 @@
 @import "{{ site.theme }}";
 
 .site-nav {
-
-  /* Page navigation button style */
-  .page-link {
-    margin-left: 0px;
-  }
-
-  a.page-link:link, a.page-link:visited {
-    background-color: $background-color;
-    color: $text-color;
-    border: 2px solid $text-color;
-    padding: $spacing-unit / 3 $spacing-unit * 2 / 3;
-    text-align: center;
-    text-decoration: none;
-  }
-
-  a.page-link:hover, a.page-link:active {
-    background-color: $text-color;
-    color: $background-color;
-  }
-
   /* Site navigation style
    * Remove to use hamburger menu for mobile
    */
@@ -53,10 +33,44 @@
     }
     margin-left: auto;
   }
+
+  /* Page navigation button style */
+  .page-link {
+    margin-left: 0px;
+  }
+
+  a.page-link:link, a.page-link:visited {
+    background-color: $background-color;
+    color: $text-color;
+    border: 2px solid $text-color;
+    padding: $spacing-unit / 3 $spacing-unit * 2 / 3;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  a.page-link:hover, a.page-link:active {
+    background-color: $text-color;
+    color: $background-color;
+  }
+}
+
+/* Profile picture formatting */
+
+.profile-pic {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  padding-bottom: $spacing-unit / 3;
+
+  @media screen and (min-width: $on-palm) {
+    width: 50%;
+    height: 50%;
+    padding: $spacing-unit / 3 $spacing-unit / 2;
+  }
 }
 
 /* PDF display */
-object.cv-view {
+.cv-view {
   width: 100%;
   height: 700px;
 }
