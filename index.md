@@ -26,7 +26,7 @@ library](https://factor.netlify.app/book/about/tensors/README.md) to the
 programming language [Factor](https://factorcode.org/).
 
 Please feel free to reach out to me by email at ndnayak2 [at] illinois [dot]
-edu, on [GitHub](https://github.com/nandeeka) or on
+edu, on [GitHub](https://github.com/nandeeka), or on
 [LinkedIn](https://www.linkedin.com/in/nandeeka-nayak/).
 
 ## Recent Publications
