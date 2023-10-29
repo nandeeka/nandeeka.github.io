@@ -9,7 +9,7 @@ layout: default
 
 ## About Me
 
-Hi! I am a rising fourth-year, Computer Science PhD student at University of
+Hi! I am a fourth-year, Computer Science PhD student at University of
 Illinois at Urbana-Champaign, advised by [Chris
 Fletcher](http://cwfletcher.net/). I work on understanding domain-specific
 accelerators for tensor algebra, with a focus on building abstractions that
@@ -38,9 +38,10 @@ edu, on [GitHub](https://github.com/nandeeka), or on
 ## Recent Publications
 
 **Nandeeka Nayak**, Toluwanimi O. Odemuyiwa, Shubham Ugare, Christopher W.
-Fletcher, Michael Pellauer, and Joel S. Emer. *TeAAL: A Declarative Framework
-for Modeling Sparse Tensor Accelerators*. 2023. arXiv: 2304.07931 [cs.AR].
-[[paper](https://arxiv.org/abs/2304.07931)]
+Fletcher, Michael Pellauer, and Joel S. Emer. "TeAAL: A Declarative Framework
+for Modeling Sparse Tensor Accelerators". In: *2023 56th IEEE/ACM International
+Symposium on Microarchitecture (MICRO)*. 2023. pp. ??-??. doi:
+10.1145/3613424.3623791.  [[paper](https://arxiv.org/abs/2304.07931)]
 
 Jose Rodrigo Sanchez Vicarte, Pradyumna Shome, **Nandeeka Nayak**, Caroline
 Trippel, Adam Morrison, David Kohlbrenner, and Christopher W. Fletcher.
@@ -56,3 +57,17 @@ extraction as applied to intelligent search for underwater archaeological
 sites. In Genya Ishigami and Kazuya Yoshida, editors, *Field and Service
 Robotics*, pages 219–233, Singapore, 2021. Springer Singapore.
 [[paper](https://link.springer.com/chapter/10.1007/978-981-15-9460-1_16)]
+
+## Recent Talks
+
+*TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators*.
+Workshop on Sparse Tensor Computations 2023.
+[[program](https://solomonik.cs.illinois.edu/tensor_workshop/index.html)]
+[[talk](https://www.youtube.com/watch?v=BSis3h_A51Y)]
+
+
+*TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators*.
+CTSTA 2023. [[program](https://pldi23.sigplan.org/home/ctsta-2023)]
+
+*TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators*.
+DRAGSTERS 2023. [[program](https://pldi23.sigplan.org/home/dragsters-2023)]
