@@ -20,7 +20,7 @@ range of domains, including [sparse tensor
 algebra](https://arxiv.org/abs/2304.07931), transformers, and fully homomorphic
 encryption.
 
-I transferred to UC Berkeley in January 2023 following my advisor, before
+I transferred to UC Berkeley in January 2024 following my advisor, before
 which, I was a student at University of Illinois Urbana-Champaign.  There, I
 worked on [hardware
 security](https://dl.acm.org/doi/abs/10.1109/ISCA52012.2021.00035) and began my
