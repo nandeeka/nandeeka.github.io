@@ -10,14 +10,16 @@ layout: default
 ## About Me
 
 Hi! I am a rising fifth-year Computer Science PhD student at University of
-California, Berkeley, advised by [Chris Fletcher](http://cwfletcher.github.io/). I
-work on understanding efficient implementations of domain-specific kernels with
-a focus on building abstractions that unify a wide variety of kernels and
-accelerator designs into a small set of primitives, in collaboration with [Joel
+California, Berkeley, advised by [Chris
+Fletcher](http://cwfletcher.github.io/). I work on understanding efficient
+implementations of domain-specific kernels with a focus on building
+abstractions that unify a wide variety of kernels and accelerator designs into
+a small set of primitives, in collaboration with [Joel
 Emer](http://people.csail.mit.edu/emer/) and [Michael
 Pellauer](https://dblp.org/pid/22/3969.html). I have applied this analysis to a
 range of domains, including [sparse tensor
-algebra](https://arxiv.org/abs/2304.07931), transformers, and fully homomorphic
+algebra](https://arxiv.org/abs/2304.07931),
+[transformers](https://arxiv.org/abs/2406.10491), and fully homomorphic
 encryption.
 
 I transferred to UC Berkeley in January 2024 following my advisor, before
@@ -42,11 +44,12 @@ Please feel free to reach out to me by email at nandeeka [at] berkeley [dot]
 edu, on [GitHub](https://github.com/nandeeka), or on
 [LinkedIn](https://www.linkedin.com/in/nandeeka-nayak/).
 
-## Recent Publications
+## Publications
 
 **Nandeeka Nayak**, Xinrui Wu, Toluwanimi O. Odemuyiwa, Michael Pellauer, Joel
 S. Emer, and Christopher W. Fletcher. "FuseMax: Leveraging Extended Einsums to
-Optimize Attention Accelerator Design". In submission.
+Optimize Attention Accelerator Design".  In submission.
+[[paper](https://arxiv.org/abs/2406.10491)]
 
 **Nandeeka Nayak**, Toluwanimi O. Odemuyiwa, Shubham Ugare, Christopher W.
 Fletcher, Michael Pellauer, and Joel S. Emer. "TeAAL: A Declarative Framework
@@ -70,7 +73,16 @@ extraction as applied to intelligent search for underwater archaeological
 sites". FSR '19.
 [[paper](https://link.springer.com/chapter/10.1007/978-981-15-9460-1_16)]
 
-## Recent Talks
+## Talks/Posters
+
+*FuseMax: Leveraging Extended Einsums to Optimize Attention Accelerator
+Design*. MLArchSys 2024.
+[[program](https://sites.google.com/view/mlarchsys/isca-2024/schedule)]
+[[paper](https://openreview.net/pdf?id=HKwsTuKEpo)]
+
+*TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators*.
+Highlights of Parallel Computing 2024.
+[[program](https://ucrparlay.github.io/hopc24/papers/)]
 
 *Extended Einsums: Domain-Specific Kernels in the Language of Tensor Algebra*.
 Stanford AHA Seminar 2024.
