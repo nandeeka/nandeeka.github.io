@@ -9,7 +9,7 @@ layout: default
 
 ## About Me
 
-Hi! I am a rising fifth-year Computer Science PhD student at University of
+Hi! I am a fifth-year Computer Science PhD student at University of
 California, Berkeley, advised by [Chris
 Fletcher](http://cwfletcher.github.io/). I work on understanding efficient
 implementations of domain-specific kernels with a focus on building
@@ -48,12 +48,12 @@ edu, on [GitHub](https://github.com/nandeeka), or on
 
 **Nandeeka Nayak**, Xinrui Wu, Toluwanimi O. Odemuyiwa, Michael Pellauer, Joel
 S. Emer, and Christopher W. Fletcher. "FuseMax: Leveraging Extended Einsums to
-Optimize Attention Accelerator Design".  In submission.
+Optimize Attention Accelerator Design".  MICRO '24.
 [[paper](https://arxiv.org/abs/2406.10491)]
 
 **Nandeeka Nayak**, Toluwanimi O. Odemuyiwa, Shubham Ugare, Christopher W.
 Fletcher, Michael Pellauer, and Joel S. Emer. "TeAAL: A Declarative Framework
-for Modeling Sparse Tensor Accelerators". MICRO ’23.
+for Modeling Sparse Tensor Accelerators". MICRO '23.
 [[paper](https://arxiv.org/abs/2304.07931)]
 <br />
 <span style="color:red">IEEE Micro Top Picks 2023 Honorable Mention</span>
@@ -83,6 +83,7 @@ Design*. MLArchSys 2024.
 *TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators*.
 Highlights of Parallel Computing 2024.
 [[program](https://ucrparlay.github.io/hopc24/papers/)]
+[[paper](https://dl.acm.org/doi/10.1145/3670684.3673418)]
 
 *Extended Einsums: Domain-Specific Kernels in the Language of Tensor Algebra*.
 Stanford AHA Seminar 2024.
@@ -98,3 +99,17 @@ CTSTA 2023. [[program](https://pldi23.sigplan.org/home/ctsta-2023)]
 
 *TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators*.
 DRAGSTERS 2023. [[program](https://pldi23.sigplan.org/home/dragsters-2023)]
+
+## Students Mentored
+
+### Current Students
+
+- Yuxin Jin (Summer 2024 - present)
+- Chenxi Wan (Summer 2024 - present)
+- Xinrui (Alice) Wu (Summer 2023 - present) &rarr; UCLA PhD
+- [Timor Averbuch](https://averbu.ch/) (Summer 2023 - present)
+
+### Former Students
+
+- Jules Peyrat (Summer 2024) &rarr; EPFL Master's
+- Alex Dicheva (Fall 2022 - Fall 2023)
