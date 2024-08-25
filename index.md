@@ -104,12 +104,12 @@ DRAGSTERS 2023. [[program](https://pldi23.sigplan.org/home/dragsters-2023)]
 
 ### Current Students
 
-- Yuxin Jin (Summer 2024 - present)
-- Chenxi Wan (Summer 2024 - present)
-- Xinrui (Alice) Wu (Summer 2023 - present) &rarr; UCLA PhD
-- [Timor Averbuch](https://averbu.ch/) (Summer 2023 - present)
+- Yuxin Jin (March 2024 - present)
+- Chenxi Wan (March 2024 - present)
+- Xinrui (Alice) Wu (May 2023 - present) &rarr; UCLA PhD
+- [Timor Averbuch](https://averbu.ch/) (May 2023 - present)
 
 ### Former Students
 
-- Jules Peyrat (Summer 2024) &rarr; EPFL Master's
-- Alex Dicheva (Fall 2022 - Fall 2023)
+- Jules Peyrat (April 2024 - August 2024) &rarr; EPFL Master's
+- Alex Dicheva (August 2022 - October 2023)
