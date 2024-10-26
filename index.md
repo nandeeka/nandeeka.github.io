@@ -104,6 +104,8 @@ DRAGSTERS 2023. [[program](https://pldi23.sigplan.org/home/dragsters-2023)]
 
 ### Current Students
 
+- Ronit Nagarapu (September 2024 - present)
+- Frederic Wu (August 2024 - present)
 - Yuxin Jin (March 2024 - present)
 - Chenxi Wan (March 2024 - present)
 - Xinrui (Alice) Wu (May 2023 - present) &rarr; UCLA PhD
