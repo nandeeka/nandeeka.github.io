@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nandeeka Nayak
-email: ndnayak2 [at] illinois [dot] edu
+email: nandeeka [at] berkeley [dot] edu
 description: >- # this means to ignore newlines until "baseurl:"
-    PhD Student at University of Illinois at Urbana-Champaign
+    PhD Student at University of California, Berkeley
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nandeeka
@@ -30,10 +30,16 @@ github_username:  nandeeka
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Include directories
+include:
+  - _pages
 
 # Header Pages
-# header_pages:
-# - assets/CV.pdf
+header_pages:
+- _pages/research.md
+- _pages/students.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
