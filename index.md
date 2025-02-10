@@ -7,14 +7,14 @@ layout: default
 
 <img class="profile-pic" align="right" src="./assets/profile.jpg">
 
-Hi! I am a fifth-year Computer Science PhD student at University of
-California, Berkeley, advised by [Chris
-Fletcher](http://cwfletcher.github.io/). I work on understanding efficient
-implementations of domain-specific kernels with a focus on building
-abstractions that unify a wide variety of kernels and accelerator designs into
-a small set of primitives, in collaboration with [Joel
-Emer](http://people.csail.mit.edu/emer/) and [Michael
-Pellauer](https://dblp.org/pid/22/3969.html). I have applied this analysis to a
+Hi! I am a fifth-year Computer Science PhD student at University of California,
+Berkeley, advised by [Chris Fletcher](http://cwfletcher.github.io/). I work on
+understanding efficient implementations of domain-specific kernels with a focus
+on building abstractions that unify a wide variety of kernels and accelerator
+designs into a small set of primitives, in collaboration with [Joel
+Emer](http://people.csail.mit.edu/emer/), [Michael
+Pellauer](https://dblp.org/pid/22/3969.html), and [Toluwa
+Odemuyiwa](https://www.todemuyiwa.com/). I have applied this analysis to a
 range of domains, including [sparse tensor
 algebra](https://arxiv.org/abs/2304.07931),
 [transformers](https://arxiv.org/abs/2406.10491), and fully homomorphic
@@ -34,9 +34,9 @@ capstone project, I added a [numerical programming
 library](https://factor.netlify.app/book/about/tensors/README.md) to the
 programming language [Factor](https://factorcode.org/).
 
-In my free time, I enjoy cooking, [social
-dancing](https://www.wcia.com/ciliving-tv/get-dancing-with-illini-swing-society/),
-traveling with my family, and studying Korean.
+In my free time, I enjoy cooking, bouldering, doing jigsaw puzzles, traveling
+with my family, studying Korean, and [social
+dancing](https://www.wcia.com/ciliving-tv/get-dancing-with-illini-swing-society/).
 
 Please feel free to reach out to me by email at nandeeka [at] berkeley [dot]
 edu, on [GitHub](https://github.com/nandeeka), or on

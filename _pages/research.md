@@ -19,6 +19,8 @@ S. Emer, and Christopher W. Fletcher. "FuseMax: Leveraging Extended Einsums to
 Optimize Attention Accelerator Design".  MICRO 2024.
 [[paper](https://arxiv.org/abs/2406.10491)]
 [[artifact](https://github.com/FPSG-UIUC/micro24-fusemax-artifact)]
+<br />
+<span style="color:red">IEEE Micro Top Picks 2025 Winner</span>
 
 **Nandeeka Nayak**, Toluwanimi O. Odemuyiwa, Shubham Ugare, Christopher W.
 Fletcher, Michael Pellauer, and Joel S. Emer. "TeAAL: A Declarative Framework
@@ -27,7 +29,7 @@ for Modeling Sparse Tensor Accelerators". MICRO 2023.
 [[artifact](https://github.com/FPSG-UIUC/micro23-teaal-artifact)]
 [[compiler](https://github.com/FPSG-UIUC/teaal-compiler)]
 <br />
-<span style="color:red">IEEE Micro Top Picks 2023 Honorable Mention</span>
+<span style="color:red">IEEE Micro Top Picks 2024 Honorable Mention</span>
 
 Jose Rodrigo Sanchez Vicarte, Pradyumna Shome, **Nandeeka Nayak**, Caroline
 Trippel, Adam Morrison, David Kohlbrenner, and Christopher W. Fletcher.
