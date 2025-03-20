@@ -10,11 +10,13 @@ of my PhD.
 
 ## Current Graduate Students
 
+- Severin Bochem (March 2025 - present)
 - Yan Zhu (August 2024 - present)
 - [Timor Averbuch](https://averbu.ch/) (May 2023 - present)
 
 ## Current Undergraduate Students
 
+- Jaewon Hur (February 2025 - present)
 - Arz Bshara (January 2025 - present)
 - Ronit Nagarapu (September 2024 - present)
 - Frederic Wu (August 2024 - present)
