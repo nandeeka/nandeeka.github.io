@@ -11,6 +11,7 @@ of my PhD.
 ## Current Graduate Students
 
 - Severin Bochem (March 2025 - present)
+- Sabrina Yarzada (February 2025 - present)
 - Yan Zhu (August 2024 - present)
 - [Timor Averbuch](https://averbu.ch/) (May 2023 - present)
 
@@ -20,8 +21,8 @@ of my PhD.
 - Arz Bshara (January 2025 - present)
 - Ronit Nagarapu (September 2024 - present)
 - Frederic Wu (August 2024 - present)
-- Yuxin Jin (March 2024 - present)
-- Chenxi Wan (March 2024 - present)
+- Yuxin Jin (March 2024 - present) &rarr; Princeton PhD
+- Chenxi Wan (March 2024 - present) &rarr; CMU PhD
 
 ## Former Students
 

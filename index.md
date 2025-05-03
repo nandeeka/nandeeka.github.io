@@ -15,10 +15,11 @@ designs into a small set of primitives, in collaboration with [Joel
 Emer](http://people.csail.mit.edu/emer/), [Michael
 Pellauer](https://dblp.org/pid/22/3969.html), and [Toluwa
 Odemuyiwa](https://www.todemuyiwa.com/). I have applied this analysis to a
-range of domains, including [sparse tensor
+range of domains—including [sparse tensor
 algebra](https://arxiv.org/abs/2304.07931),
 [transformers](https://arxiv.org/abs/2406.10491), and fully homomorphic
-encryption.
+encryption—and accelerator backends across academia and
+[industry](https://www.linkedin.com/posts/amazon-web-services_aws-ucberkeley-trainium-tuesday-activity-7322984830038700032-SOZ6).
 
 I transferred to UC Berkeley in January 2024 following my advisor, before
 which, I was a student at University of Illinois Urbana-Champaign.  There, I
