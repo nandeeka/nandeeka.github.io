@@ -18,7 +18,7 @@ Odemuyiwa](https://www.todemuyiwa.com/). I have applied this analysis to a
 range of domains—including [sparse tensor
 algebra](https://arxiv.org/abs/2304.07931),
 [transformers](https://arxiv.org/abs/2406.10491), and fully homomorphic
-encryption—and accelerator backends across academia and
+encryption—and accelerator backends designed by both academia and
 [industry](https://www.linkedin.com/posts/amazon-web-services_aws-ucberkeley-trainium-tuesday-activity-7322984830038700032-SOZ6).
 
 I transferred to UC Berkeley in January 2024 following my advisor, before
