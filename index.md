@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-pic" align="right" src="./assets/profile.jpg">
 
-Hi! I am a fifth-year Computer Science PhD student at University of California,
+Hi! I am a sixth-year Computer Science PhD Candidate at University of California,
 Berkeley, advised by [Chris Fletcher](http://cwfletcher.github.io/). I work on
 understanding efficient implementations of domain-specific kernels with a focus
 on building abstractions that unify a wide variety of kernels and accelerator
