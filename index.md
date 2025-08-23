@@ -7,18 +7,19 @@ layout: default
 
 <img class="profile-pic" align="right" src="./assets/profile.jpg">
 
-Hi! I am a sixth-year Computer Science PhD Candidate at University of California,
-Berkeley, advised by [Chris Fletcher](http://cwfletcher.github.io/). I work on
-understanding efficient implementations of domain-specific kernels with a focus
-on building abstractions that unify a wide variety of kernels and accelerator
-designs into a small set of primitives, in collaboration with [Joel
+Hi! I am a sixth-year Computer Science PhD Candidate at University of
+California, Berkeley, advised by [Chris
+Fletcher](http://cwfletcher.github.io/). I work on understanding efficient
+implementations of domain-specific kernels with a focus on building
+abstractions that unify a wide variety of kernels and accelerator designs into
+a small set of primitives, in collaboration with [Joel
 Emer](http://people.csail.mit.edu/emer/), [Michael
 Pellauer](https://dblp.org/pid/22/3969.html), and [Toluwa
 Odemuyiwa](https://www.todemuyiwa.com/). I have applied this analysis to a
 range of domains—including [sparse tensor
 algebra](https://arxiv.org/abs/2304.07931),
-[transformers](https://arxiv.org/abs/2406.10491), and fully homomorphic
-encryption—and accelerator backends designed by both academia and
+[transformers](https://arxiv.org/abs/2406.10491), RTL simulation, and fully
+homomorphic encryption—and accelerator backends designed by both academia and
 [industry](https://www.linkedin.com/posts/amazon-web-services_aws-ucberkeley-trainium-tuesday-activity-7322984830038700032-SOZ6).
 
 I transferred to UC Berkeley in January 2024 following my advisor, before
