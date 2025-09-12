@@ -13,12 +13,13 @@ parts of my PhD.
 - Severin Bochem (March 2025 - present)
 - Sabrina Yarzada (February 2025 - present)
 - Yan Zhu (August 2024 - present)
-- [Timor Averbuch](https://averbu.ch/) (May 2023 - present)
 
 ## Current Undergraduate Students
 
+- Bosung An (September 2025 - present)
+- Seunghyun Yong (September 2025 - present)
+- Peter Wang (August 2025 - present)
 - Jaewon Hur (February 2025 - present)
-- Arz Bshara (January 2025 - present)
 - Ronit Nagarapu (September 2024 - present)
 - Frederic Wu (August 2024 - present)
 
@@ -26,6 +27,8 @@ parts of my PhD.
 
 - Yuxin Jin (March 2024 - August 2025) &rarr; Princeton PhD
 - Chenxi Wan (March 2024 - August 2025) &rarr; CMU PhD
+- [Timor Averbuch](https://averbu.ch/) (May 2023 - May 2025)
+- Arz Bshara (January 2025 - May 2025)
 - Xinrui (Alice) Wu (May 2023 - September 2024) &rarr; UCLA PhD
 - Jules Peyrat (April 2024 - August 2024) &rarr; EPFL Master's
 - Alex Dicheva (August 2022 - October 2023)

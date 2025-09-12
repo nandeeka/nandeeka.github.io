@@ -14,6 +14,11 @@ Here is my [CV](../cv/) and my [Google Scholar](https://scholar.google.com/citat
 
 ## Publications
 
+**Nandeeka Nayak**, Xinrui Wu, Toluwanimi O. Odemuyiwa, Michael
+Pellauer, Joel S. Emer, and Christopher W. Fletcher. "From TeAAL to FuseMax:
+Separation of Concerns for Attention Accelerator Design".  IEEE Micro 2025.
+[[paper](https://ieeexplore.ieee.org/document/11082638)]
+
 **Nandeeka Nayak**, Xinrui Wu, Toluwanimi O. Odemuyiwa, Michael Pellauer, Joel
 S. Emer, and Christopher W. Fletcher. "FuseMax: Leveraging Extended Einsums to
 Optimize Attention Accelerator Design".  MICRO 2024.
@@ -56,6 +61,9 @@ Accelerators*. Co-located with MICRO 2024.
 [[slides](https://drive.google.com/drive/u/1/folders/1qiVS_To4Hd8-Uy8edjzwRf8esai2lZcr)]
 
 ## Talks/Posters
+
+*A Structured Methodology for Implementing Efficient Tensor Algebra Kernels*.
+Seminar at Yale University 2025.
 
 *FuseMax: Leveraging Extended Einsums to Optimize Attention Accelerator
 Design*. MLArchSys 2024.
