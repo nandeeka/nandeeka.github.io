@@ -12,7 +12,7 @@ parts of my PhD.
 
 - Severin Bochem (March 2025 - present)
 - Sabrina Yarzada (February 2025 - present)
-- Yan Zhu (August 2024 - present)
+- [Yan Zhu](https://zhuyan0619.github.io) (August 2024 - present)
 
 ## Current Undergraduate Students
 
