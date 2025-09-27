@@ -20,7 +20,7 @@ parts of my PhD.
 - Seunghyun Yong (September 2025 - present)
 - Peter Wang (August 2025 - present)
 - Jaewon Hur (February 2025 - present)
-- Ronit Nagarapu (September 2024 - present)
+- [Ronit Nagarapu](https://ronitnag04.github.io/) (September 2024 - present)
 - Frederic Wu (August 2024 - present)
 
 ## Former Students

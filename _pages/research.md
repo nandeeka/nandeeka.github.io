@@ -53,6 +53,11 @@ sites". FSR 2019.
 [[paper](https://link.springer.com/chapter/10.1007/978-981-15-9460-1_16)]
 
 ## Tutorials
+*TeAAL and HiFiber: Precise and Concise Descriptions of (Sparse) Tensor Algebra
+Accelerators*. Co-located with MICRO 2025.
+[[website](https://teaal.csail.mit.edu/tutorials/2025.micro-teaal/index.html)]
+[[artifact](https://github.com/FPSG-UIUC/accelerator-zoo)]
+
 
 *TeAAL and HiFiber: Precise and Concise Descriptions of (Sparse) Tensor Algebra
 Accelerators*. Co-located with MICRO 2024.
