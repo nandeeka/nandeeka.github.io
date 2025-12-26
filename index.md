@@ -9,11 +9,16 @@ layout: default
 
 Hi! I am a sixth-year Computer Science PhD Candidate at University of
 California, Berkeley, advised by [Chris
-Fletcher](http://cwfletcher.github.io/). I work on understanding efficient
-implementations of domain-specific kernels with a focus on building
-abstractions that unify a wide variety of kernels and accelerator designs into
-a small set of primitives, in collaboration with [Joel
-Emer](http://people.csail.mit.edu/emer/), [Michael
+Fletcher](http://cwfletcher.github.io/). I am currently on the job market,
+planning to graduate May 2026. I am particularly interested in positions where
+I can apply my experience with domain-specific accelerators and kernel
+optimization to medical and life sciences applications. Please reach out if you
+know of any relevant opportunities.
+
+During my PhD, I have worked on understanding efficient implementations of
+domain-specific kernels with a focus on building abstractions that unify a wide
+variety of kernels and accelerator designs into a small set of primitives, in
+collaboration with [Joel Emer](http://people.csail.mit.edu/emer/), [Michael
 Pellauer](https://dblp.org/pid/22/3969.html), and [Toluwa
 Odemuyiwa](https://www.todemuyiwa.com/). I have applied this analysis to a
 range of domains—including [sparse tensor
